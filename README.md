@@ -21,4 +21,4 @@ BUILD & RUN:
   - git clone https://github.com/robert1724/2048-game.git
   - cd 2048-game
   - gcc 2048.c -o 2048 -lncurses
-  - ./2048
+  - ./2048  (make sure to play on full screen)
