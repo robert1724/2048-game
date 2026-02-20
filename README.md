@@ -15,3 +15,10 @@ The game ends when:
 
 I built this project to better understand matrix manipulation, game logic implementation, and how to use the ncurses library for interactive terminal applications.
 Technologies used: C, ncurses, random number generation, non-blocking keyboard input.
+
+
+BUILD & RUN:
+git clone https://github.com/robert1724/2048-game.git
+cd 2048-game
+gcc 2048.c -o 2048 -lncurses
+./2048
